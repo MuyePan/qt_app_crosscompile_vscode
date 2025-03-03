@@ -1,0 +1,19 @@
+{
+    // This is the binary of the application
+    "APP_NAME": "appHelloVs",
+    // This is the hostname of the device
+    "TARGET_DEVICE": "rpi02pmy.local",
+    // This are the files that will be copied to the device
+    "RSYNC_FILES": "${workspaceFolder}/build/appHelloVs ${workspaceFolder}/Main.qml",
+
+    // This is the command line arguments of the application
+    "CMD_LINE_ARGUMENTS": "",
+    // This is the working directory of the application
+    "TARGET_FOLDER": "/usr/local/bin",
+    // This is the path to the Qt libraries
+    "TARGET_QT_LIB_FOLDER": "/usr/local/qt6/lib",
+    // This is the gdb port
+    "DEBUG_PORT": "12345",
+    // This is the path to the sysroot
+    "SYS_ROOT": "/home/pmy/CrossCompile/rpi-sysroot"
+}
