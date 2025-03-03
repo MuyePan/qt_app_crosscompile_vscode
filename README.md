@@ -4,7 +4,7 @@ This guide provides step-by-step instructions to configure an environment for cr
 [Video Tutorial](https://youtu.be/cfpH3ro9d80)
 
 If you have any problems about cross-compiling Qt, refer to my another video tutorial on YouTube:  
-[Video Tutorial](https://youtu.be/cfpH3ro9d80)
+[Video Tutorial](https://youtu.be/8kpHgNKPooc)
 
 ## 1. Create a Project Using Qt Creator
 It’s strongly recommended to use **Qt Creator 11.0.3**, especially for QML debugging support.  
