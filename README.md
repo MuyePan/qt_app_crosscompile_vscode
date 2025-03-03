@@ -35,9 +35,9 @@ To enable X11 forwarding and simplify SSH access:
 
 ## 5. Copy Configuration Files to the `.vscode` Folder
 Copy the following files from this repository into your project’s `.vscode` directory:  
-- `launch.json`: [Link](https://github.com/MuyePan/pico_rtos_lvgl/blob/main/.vscode/launch.json)  
-- `tasks.json`: [Link](https://github.com/MuyePan/pico_rtos_lvgl/blob/main/.vscode/tasks.json)  
-- `settings.json`: [Link](https://github.com/MuyePan/pico_rtos_lvgl/blob/main/.vscode/settings.json)
+- `launch.json`: [Link](https://github.com/MuyePan/qt_app_crosscompile_vscode/blob/main/.vscode/launch.json)  
+- `tasks.json`: [Link](https://github.com/MuyePan/qt_app_crosscompile_vscode/blob/main/.vscode/tasks.json)  
+- `settings.json`: [Link](https://github.com/MuyePan/qt_app_crosscompile_vscode/blob/main/.vscode/settings.json)
 
 ## 6. Modify `CMakeLists.txt`
 Add the toolchain settings before the `project()` directive in your `CMakeLists.txt`:  
