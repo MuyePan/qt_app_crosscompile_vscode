@@ -1,6 +1,6 @@
 # Quick Start Guide: Setting Up VSCode for Qt App Cross-Compiling
 
-This guide provides step-by-step instructions to configure an environment for cross-compiling Qt applications for Raspberry Pi (RPi) using Visual Studio Code (VSCode). For additional tips and visuals, refer to the companion video tutorial on YouTube:  
+This guide provides step-by-step instructions to configure an environment for cross-compiling Qt applications for Raspberry Pi using Visual Studio Code. For additional tips and visuals, refer to the companion video tutorial on YouTube:  
 [Video Tutorial](https://youtu.be/cfpH3ro9d80)
 
 If you have any problems about cross-compiling Qt, refer to my another video tutorial on YouTube:  
